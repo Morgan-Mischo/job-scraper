@@ -15,16 +15,19 @@ A Chrome extension that extracts job listings from LinkedIn (plan to add more si
 3. Enable Developer Mode (top-right corner).
 Click Load Unpacked and select the folder where this extension is saved.
 The extension is now installed! 🎉
-🏗️ Usage
+
+## 🏗️ Usage
 
 Open a LinkedIn job listing.
 Click the extension icon to save the job details.
 Click View Jobs to see saved listings in a table.
 Click Delete to remove a job from the saved list.
-📜 Permissions
+
+## 📜 Permissions
 
 Active Tab: To extract job details from LinkedIn job pages.
 Storage: To store and manage saved job listings.
-📝 Contributing
+
+## 📝 Contributing
 
 Pull requests are welcome! For significant changes, please open an issue first to discuss your ideas.
